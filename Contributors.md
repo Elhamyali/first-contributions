@@ -143,7 +143,6 @@ Arnel Forbes
 -[Akshay Avinash](https://github.com/akshay11298}
 - [Abhishek-verma](https://github.com/abhishek-verma
   Madhavik Agarwa)
-- [Elham Ali](https://github.com/elhamyali)
 - [Arseny Poga](https://github.com/arsenypoga)
 - [SH Shin](https://github.com/sshplendid)
 - [Makenzie Wells](https://github.com/AttackTheMak29)
@@ -9272,6 +9271,7 @@ Rohan Das
 - [Jeojhx](https://github.com/jeojhx)
 - [Shailesp](https://github.com/shailesp)
 - [Sumesh KP - sumeshkp18 ](https://github.com/sumeshkp18)
+- [Elham Ali](https://github.com/elhamyali)
 - [laurieplo](https://github.com/laurieplo)
 - [Ommp](https://github.com/Ommp)
 - [Eduardo Bachiega](https://github.com/eduardobachiega)
